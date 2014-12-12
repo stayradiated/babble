@@ -1,0 +1,14 @@
+{
+  "name": "pizza",
+  "version": "1.0.0",
+  "description": "This is an example program demonstrating BLE connectivity between a peripheral running bleno, and a central running noble.",
+  "main": "pizza.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "noble": "^0.3.6"
+  }
+}
